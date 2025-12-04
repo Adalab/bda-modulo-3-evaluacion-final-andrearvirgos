@@ -7,13 +7,13 @@ Este repositorio contiene la solución al ejercicio de evaluación final del Mó
 ## 📂 **Archivos base incluidos en el repositorio:**
 
 - El documento con el enunciado del ejercicio de evaluación.
-- Un archivo ['Customer Flight Activity.csv'] (data/Customer%20Flight%20Activity.csv) que contiene los datos sobre la actividad de vuelo de los clientes de la aerolínea:
+- Un archivo [Customer Flight Activity.csv] (data/Customer%20Flight%20Activity.csv) que contiene los datos sobre la actividad de vuelo de los clientes de la aerolínea:
     * Número de vuelos reservados.
     * Distancia volada.
     * Acumulación de puntos.
     * Costos.
 
-- Un archivo ['Customer Loyalty History.csv'] (data/Customer%20Loyalty%20History.csv) que incluye información demográfica de la clientela y sobre el programa de fidelidad de la aerolínea.
+- Un archivo [Customer Loyalty History.csv] (data/Customer%20Loyalty%20History.csv) que incluye información demográfica de la clientela y sobre el programa de fidelidad de la aerolínea.
     * País, provincia, ciudad.
     * Género, nivel educativo, salario.
     * Tipo de tarjeta usada.
@@ -45,15 +45,15 @@ El objetivo es analizar el comportamiento de los clientes dentro del programa de
 ---
 
 ## 🛠️ **Herramientas utilizadas:**
--*Python*
--*Pandas*
--*Matplotlib / Seabron*
--*Jupyter Notebook*
--*Git & GitHub*
+- *Python*
+- *Pandas*
+- *Matplotlib / Seabron*
+- *Jupyter Notebook*
+- *Git & GitHub*
 
 --- 
 
-## **Entregables:**
+## 📂 **Carpeta entregables:**
 En el repositorio se incluirán:
 - Script con el desarrollo del proceso (EDA, limpieza y visualización).
 - Gráficas generadas.
