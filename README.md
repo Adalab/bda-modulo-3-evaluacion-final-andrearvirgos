@@ -41,7 +41,7 @@ El objetivo es analizar el comportamiento de los clientes dentro del programa de
 5. Proporción de tipos de tarjeta de fidelidad.  
 6. Distribución de clientes por estado civil y género.
 
-![Distribución de vuelos por mes](images/vuelos_por_mes.png) ejemplo de cómo insertar 
+![Distribución de clientes por estado civil y género](images\6. Distribución de clientes por estado civil y género.png) 
 ---
 
 ## 🛠️ **Herramientas utilizadas:**
